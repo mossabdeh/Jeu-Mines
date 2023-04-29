@@ -42,11 +42,13 @@
 
 **Embold :**
 
-**![](media/1ce7d43e6fce10befd20fc7c6e7335e9.png)**
+**![Embold1](https://user-images.githubusercontent.com/79877072/235301837-2f3fb40b-96db-4135-9a48-d157a7875637.PNG)
+**
 
 **Deepsource :**
 
-**![](media/deb89ff3826f9b4ce0546a1574a47169.png)**
+**![JeuMines DeepSource](https://user-images.githubusercontent.com/79877072/235301855-5c5df608-f158-41f7-a700-f9f2ed2826d1.PNG)
+**
 
 **Synthèse Analyse Structurelle :**
 
@@ -81,7 +83,8 @@ De plus, l'absence de documentation ou de tests unitaires rend la vérification 
 
 En résumé, l'analyse du projet a révélé des problèmes importants de qualité, de complexité et de maintenabilité du code, ainsi que l'absence de bonnes pratiques de programmation orientée objet et de tests unitaires. Ces résultats soulignent la nécessité d'une refonte du code et d'une amélioration de la qualité globale du projet pour garantir sa fiabilité et sa pérennité à long terme.
 
-![](media/b80b3faf0e00b21dfc0f57c0983e7cde.png)
+
+![Embold2](https://user-images.githubusercontent.com/79877072/235301873-66f60626-2cd2-4438-8670-06c9045c66fd.PNG)
 
 **Décision**
 
