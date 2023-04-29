@@ -1,12 +1,6 @@
-**Nom :Laggoune**
 
-**Prénom :Abd el ouadoud**
 
-**Nom :Dehane**
-
-**Prénom :Mosaab seif el islem**
-
-**Fiche de gestion de la maintenance du Projet Jeu de Mines.**
+## Fiche de gestion de la maintenance du Projet Jeu de Mines.
 
 **Requête :** Demande d’analyse dans le cadre d’une maintenance préventive
 
